@@ -12,7 +12,7 @@
 
 - 🌱 I have graduated in Information Technology, I believe that everyday is a learning opportunity.
 - ❤ Contributing to Open Source.
-- 💻 Visit my <a hefl="https://github.com/nghiemv2001">GIT</a> for more details about me.
+- 💻 Sent mail for me <a hefl="">nghiemV2001@gmail.com</a> for more details about work.
 
 
 
@@ -23,10 +23,7 @@
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div style="display: flex; align-items:center; justify-content: space-around">
-  
-<a href="nghiemV2001@gmail.com" target="_blank">
-<img style="border-radius: 60px" src="./ic_linkedln.png" width=50 height=50 alt="nghiemV2001@gmail.com" style="margin-bottom: 5px;" />
-</a>
+
 
 <a href="https://github.com/nghiemv2001" target="_blank">
 <img   style="border-radius: 60px" src="./ic_git.png" width=50 height=50 alt="Nghiem" style="margin-bottom: 5px;" />
